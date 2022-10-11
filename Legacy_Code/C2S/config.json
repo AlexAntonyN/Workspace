@@ -1,9 +1,0 @@
-{
-  "parameters": {
-    "throttle": 80,
-    "brake": 20,
-    "steering": 50,
-    "drive_state": 1,
-    "clamps": 30
-  }
-}
